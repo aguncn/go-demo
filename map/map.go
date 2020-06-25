@@ -15,5 +15,4 @@ func main() {
 
 	fmt.Println(map1)
 	fmt.Println(map2)
-
 }
